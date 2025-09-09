@@ -5,10 +5,11 @@
 ## 👋 Hi there, I’m Betty Musari
 
 🎯 **Mid-level DevOps Engineer** | ☁️ **Cloud Enthusiast** | 🔧 **Automation Lover**
-  
-## 🎓 Certifications  
+ 
+  ## 🎓 Certifications  
 
-[![Aviatrix Certified Engineer (ACE)](https://images.credly.com/size/340x340/images/cc7caa4a-beaa-4777-8d96-65e0664a6c45/Aviatrix-ACE.png)](https://www.credly.com/badges/cc7caa4a-beaa-4777-8d96-65e0664a6c45/public_url)
+[![Aviatrix Certified Engineer (ACE)](https://raw.githubusercontent.com/Bettymusari/Bettymusari/main/aviatrix-ace.png)](https://www.credly.com/badges/cc7caa4a-beaa-4777-8d96-65e0664a6c45/public_url)
+
 
 
 
